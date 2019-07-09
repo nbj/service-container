@@ -1,8 +1,15 @@
 {
-    "name": "vendor/project",
-    "description": "Project scaffold",
-    "type": "project",
+    "name": "nbj/service-container",
+    "description": "A small service container library",
+    "keywords": ["container", "service"],
+    "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikolaj Boel Jensen",
+            "email": "nbj@cego.dk"
+        }
+    ],
     "require": {},
     "require-dev": {
         "phpunit/phpunit": "*",
